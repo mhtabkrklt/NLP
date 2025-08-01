@@ -41,12 +41,6 @@ The model achieves the following ROUGE scores on the test set:
 ## Installation
 
 ```bash
-pip install torch transformers datasets evaluate rouge-score
-
-## References
-
-BillSum dataset: huggingface.co/datasets/FiscalNote/billsum
-BART model: huggingface.co/ainize/bart-base-cnn
-Hugging Face Transformers: huggingface.co/docs/transformers
+pip install torch transformers datasets evaluate rouge-score 
 
 
