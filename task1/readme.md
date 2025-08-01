@@ -1,7 +1,7 @@
 ## Bigram Transformer Language Model
 
 Простой пример Bigram Language Model на PyTorch с реализацией Transformer-блока.  
-Вдохновлено мини-GPT проектом Андрея Карпати.
+
 
 ---
 
